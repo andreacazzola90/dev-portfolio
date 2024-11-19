@@ -53,7 +53,7 @@ const About2 = ({ clientHeight }) => {
           >
             forte
           </span>{" "}
-          ossessione per l'attenzione ai dettagli
+          ossessione per l&apos;attenzione ai dettagli
         </h1>
       </div>
     </section>
